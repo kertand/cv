@@ -1141,6 +1141,11 @@ a {
     color: #fff;
 }
 
+.section-video .video-block{
+  display: flex;
+  justify-content: space-around;
+}
+
 /* ---------------------------------------------- 
 * 10. Resume
 /* ---------------------------------------------- */
