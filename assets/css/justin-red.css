@@ -1728,6 +1728,7 @@ h4.media-heading {
 }
 
 @font-face {
+    font-family: "Garet-Heavy";
     src: url("../webfonts/Garet-Heavy.ttf") format("truetype");
         font-style: normal;
         font-weight: normal;
