@@ -67,7 +67,7 @@ footer, header, hgroup, menu, nav, section {
     display: block;
 }
 body {
-    font: 400 16px/1.8 'Garet-Heavy', sans-serif;
+    font-family: "Garet-Heavy";
     color: #333;
     overflow-x: hidden;
     background: #fff;
